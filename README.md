@@ -29,4 +29,4 @@
   <a href = "mailto:matheus-pdaguiar@educar.rs.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![snake animation](https://github.com/matheus-pea/matheus-pea/blob/outputqgithub-contribution-grid-snake.svg)
+![snake animation](https://github.com/matheus-pea/matheus-pea/blob/output/github-contribution-grid-snake.svg)
