@@ -19,10 +19,11 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF4500&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=4169E1&labelColor=0D1117)&nbsp; 
 
 ### Studying in this moment:
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
+![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=4169E1&labelColor=0D1117)&nbsp;
+![Laravel](https://img.shields.io/badge/-laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF0000&labelColor=0D1117)&nbsp; 
 
 <div align="center">
 <p align="centre"><b>Visitors Count</b></p>  
