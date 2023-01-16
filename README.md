@@ -28,5 +28,3 @@
   <a href="https://www.linkedin.com/in/matheus-pereira-952456229" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matheus-pdaguiar@educar.rs.gov.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-![snake animation](https://github.com/matheus-pea/matheus-pea/blob/output/github-contribution-grid-snake.svg)
