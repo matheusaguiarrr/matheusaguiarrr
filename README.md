@@ -1,4 +1,6 @@
-## Olá! Eu sou o Matheus Aguiar
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Matheus+Aguiar;I'm+19+years+old;I'm+from+Brazil;I'm+a+student+systems+Development+for+web;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estudando PHP
@@ -12,12 +14,12 @@
 
 ##
 
-<div>
-<a href="https://github.com/matheus-pea/github-readme-stats">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-pea&show_icons=true&theme=transparent&count_private=true" />
-</a>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheus-pea&show_icons=true&count_private=true&hide_border=true&title_color=0000CD&icon_color=0000CD&text_color=0000CD&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-pea&layout=compact&hide_border=true&title_color=0000CD&text_color=0000CD&bg_color=0d1117" />
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=matheus-pea&bg_color=0d1117&color=0000CD&line=0000CD&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ##
 
 <h1>Tecnologias usadas no meu dia a dia:</h1>
@@ -28,3 +30,5 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=footer"/>
