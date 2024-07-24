@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header"/>
 
-<h2 align="center"> Eae, meu nome é <a href="https://www.linkedin.com/in/matheusaguiarrr/"><i>Matheus Pereira de Aguiar</i></a></h2>
+<h2 align="center"> Olá, meu nome é <a href="https://www.linkedin.com/in/matheusaguiarrr/"><i>Matheus Pereira de Aguiar</i></a></h2>
 
 <p align="center">Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:</p>
 
@@ -27,7 +27,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheusaguiarrr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=matheusaguiarrr&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
